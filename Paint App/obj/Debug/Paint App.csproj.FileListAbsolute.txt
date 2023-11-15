@@ -1,0 +1,10 @@
+F:\c#\Paint App\Paint App\bin\Debug\Paint App.exe.config
+F:\c#\Paint App\Paint App\bin\Debug\Paint App.exe
+F:\c#\Paint App\Paint App\bin\Debug\Paint App.pdb
+F:\c#\Paint App\Paint App\obj\Debug\Paint App.csproj.AssemblyReference.cache
+F:\c#\Paint App\Paint App\obj\Debug\Paint_App.Form1.resources
+F:\c#\Paint App\Paint App\obj\Debug\Paint_App.Properties.Resources.resources
+F:\c#\Paint App\Paint App\obj\Debug\Paint App.csproj.GenerateResource.cache
+F:\c#\Paint App\Paint App\obj\Debug\Paint App.csproj.CoreCompileInputs.cache
+F:\c#\Paint App\Paint App\obj\Debug\Paint App.exe
+F:\c#\Paint App\Paint App\obj\Debug\Paint App.pdb
